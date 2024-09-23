@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sarteri.github.io/sitemap.html.gz
+Sitemap: https://sarteri.github.io/app/sitemap.html.gz
+Sitemap: https://sarteri.github.io/assets/sitemap.html.gz
+Sitemap: https://sarteri.github.io/css/sitemap.html.gz
+Sitemap: https://sarteri.github.io/data/sitemap.html.gz
+Sitemap: https://sarteri.github.io/includes/sitemap.html.gz
+Sitemap: https://sarteri.github.io/item/sitemap.html.gz
+Sitemap: https://sarteri.github.io/src/sitemap.html.gz
